@@ -16,4 +16,4 @@ This repository contains selected coursework projects and analysis notebooks.
 
 ### 3) Data Visualization
 - Tools : pandas, matplotlib
-- - Notebook: `Projects/데이터 분석 실습/<NOTEBOOK_NAME>.ipynb`
+- - Notebook: `Projects/데이터 분석 실습/`
