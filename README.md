@@ -13,5 +13,7 @@ This repository contains selected coursework projects and analysis notebooks.
 - Methods: Morgan fingerprints, DNN
 - Notebook: `Projects/<prediction of alpha-synuclein binding proteins>.ipynb`
 - Colab : https://colab.research.google.com/drive/1ZqXOrqcYDf8i3rJMHFg_HUnb7ZVqcnFz?usp=sharing
-## Notes
-- Notebooks may require making a copy in Colab to run.
+
+### 3) Data Visualization
+- Tools : pandas, matplotlib
+- - Notebook: `Projects/데이터 분석 실습/<NOTEBOOK_NAME>.ipynb`
